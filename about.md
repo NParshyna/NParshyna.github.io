@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
+My name is Nataliya Parshyna. 
+I am very passionate about Data Science and Machine Learning. 
+I've received my Master's Dgree in Computer Science in 2002 and since then was very interested in Mathematical Algorithms applied to Neral Networks.
+I can help you to answer bussiness questions and tell customers stories with data.
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[nparshyna@gmail.com)
+778-773-6043
