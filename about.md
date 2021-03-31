@@ -10,5 +10,5 @@ I've received my Master's Dgree in Computer Science in 2002 and since then was v
 I can help you to answer bussiness questions and tell customers stories with data.
 ### Contact me
 
-[nparshyna@gmail.com)
+nparshyna@gmail.com
 778-773-6043
